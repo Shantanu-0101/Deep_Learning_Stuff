@@ -1,2 +1,2 @@
 # Deep_Learning
-From this repo I'll be push my all code files which I work while learning Deep learning.
+From this repository, I'll be pushing all the code files that I work on while learning Deep learning.
